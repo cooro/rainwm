@@ -1,5 +1,5 @@
-# Crow's Window Manager
-A window manager for crows.
+# RainWM
+Rayne's window manager
 
 ## Design Goals
 * Tiling window management
